@@ -1,0 +1,44 @@
+.p { 
+    display: flex; 
+    justify-content: space-around; 
+} 
+ 
+p { 
+    font-size: 32px; 
+} 
+ 
+h1 { 
+    font-size: 64px; 
+    text-align: center; 
+    margin-top: 128px; 
+} 
+ 
+.box { 
+    width: 558px; 
+height: 452px; 
+top: 448px; 
+left: 63px; 
+background-color: #FF0000; 
+}
+ 
+ 
+.wrapper { 
+    display: flex; 
+    justify-content: space-around; 
+    margin-top: 128px; 
+} 
+ 
+.box { 
+font-style: 64px; 
+align-items: center; 
+display: flex; 
+justify-content: center; 
+color: white; 
+font-size: 64px; 
+} 
+ 
+.pv { 
+    display: flex; 
+    justify-content: space-around; 
+    margin-top: 445px; 
+}
